@@ -7,4 +7,5 @@ Ausvote requires the following permissions:
 - Manage Events
 - Create Events
 - Manage Channels
+- View Channels
 - Manage Roles
